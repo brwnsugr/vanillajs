@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.linting.pylintEnabled": false,
+    "editor.tabCompletion": true,
+    "typescript.useCodeSnippetsOnMethodSuggest": true
+}
